@@ -25,8 +25,8 @@ RobbieAB and cyrozap for pointing me in a useful direction.
 
 ## Etymology
 
-It's a Harry Potter wand-lore reference.
+It's a Harry Potter wand-lore reference. "MLFY" is pronounced "Malfoy".
 
 ## License
 
-Copyright 2022 Jeremy Rand.  GPLv3+.
+Copyright 2022-2023 Jeremy Rand.  GPLv3+.
